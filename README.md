@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I am Andrey Esquivel</h1>
-<h3 align="center">Passionate about backend development with Java and technological freedom.</h3>
+<h1 align="center">Hi 👋, I am Andrey</h1>
+<h3 align="center">Passionate about backend development and open source</h3>
 
 ---
 
 - 🔭 Currently working at **Affirm** (via Bill Gosling Outsourcing) as a **Loan Dispute Adjudicator**
-- 🌱 Learning: The **Java Backend Stack** and **Linux** (Fedora)
-- 💡 Interests: Free software philosophy, electronics, low-level programming, distributed systems and backend development
+- 🌱 Learning: **Backend Development** and **Low-Level Development**
+- 💡 Interests: Free software philosophy, electronics, low-level programming, and backend development
 - 📚 Studying **Software Engineering** at **UIA**
 
 ---
@@ -40,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
 ---
