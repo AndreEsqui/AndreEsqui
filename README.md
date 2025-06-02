@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I am Andrey</h1>
-<h3 align="center">Passionate about backend development and open source</h3>
+<h3 align="center">Passionate about backend development and low-level development</h3>
 
 ---
 
 - 🔭 Currently working at **Affirm** (via Bill Gosling Outsourcing) as a **Loan Dispute Adjudicator**
 - 🌱 Learning: **Backend Development** and **Low-Level Development**
-- 💡 Interests: Free software philosophy, electronics, low-level programming, and backend development
+- 💡 Interests: Free software, electronics, low-level programming, and backend development
 - 📚 Studying **Software Engineering** at **UIA**
 
 ---
 
-### ⚡ Hobbies
-
-- 🧰 Tinkering with electronics and Arduino projects  
-- 🖥️ Exploring low-level programming and system internals  
-- 📖 Reading about free software philosophy and digital autonomy  
-- 🐧 Customizing and optimizing Linux systems  
-
----
-
-### 🧰 Technologies I am learning
+### 🧰 Technologies I am currently learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -29,21 +20,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+- Building robust backend services with Java and Spring Boot  
+- Designing RESTful APIs and scalable microservices  
+- Managing relational data with PostgreSQL  
+- Containerizing and deploying applications with Docker  
+- Cloud-ready development with AWS fundamentals  
+- Focused on production-quality code, clean architecture, and DevOps readiness 
+
 ---
 
-### 📊 Languages and Tools
+### 🧸 Hobby Stack – For fun, low-level hacking, and learning how computers really work
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
+
+- 🎯 Exploring systems programming, microcontrollers and pure C development
+- 🤖 Building tools, playing with sensors, and making things blink with Arduino
+- 🧠 Learning low-level memory handling, processes, and I/O with Linux tools
 
 ---
 
-### 📫 Contact
+### 📫 Contact (for any project or discussion) 
 
 - 📧 andreyesquivel@tutamail.com  
 
