@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Andrey</h1>
+<h1 align="center">Hello, I am Andrey</h1>
 <h3 align="center">Passionate about backend development and low-level development</h3>
 
 ---
@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 - Building robust backend services with Java and Spring Boot  
