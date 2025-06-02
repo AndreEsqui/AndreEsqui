@@ -39,9 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
 
-- 🎯 Exploring systems programming, microcontrollers and pure C development
-- 🤖 Building tools, playing with sensors, and making things blink with Arduino
-- 🧠 Learning low-level memory handling, processes, and I/O with Linux tools
+- Exploring systems programming, microcontrollers and pure C development
+- Building tools, playing with sensors, and making things blink with Arduino
+- Learning low-level memory handling, processes, and I/O with Linux tools
 
 ---
 
