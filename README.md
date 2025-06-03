@@ -5,7 +5,7 @@
 
 - 🔭 Currently working at **Affirm** (via Bill Gosling Outsourcing) as a **Loan Dispute Adjudicator**
 - 🌱 Learning: **Backend Development** and **Low-Level Development**
-- 💡 Interests: Free software, electronics, low-level programming, and backend development
+- 💡 Interests: low-level programming and backend development
 - 📚 Studying **Software Engineering** at **UIA**
 
 ---
@@ -48,4 +48,4 @@
 
 ### 📫 Professional Contact (for any project or discussion) 
 
-- 📧 [My public email (powered by Apple)](mailto: wipes-incomes.9y@icloud.com)
+- 📧 wipes-incomes.9y@icloud.com 
