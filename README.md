@@ -46,11 +46,6 @@
 
 ---
 
-### 📫 Contact (for any project or discussion) 
+### 📫 Professional Contact (for any project or discussion) 
 
-- 📧 andreyesquivel@tutamail.com  
-
----
-
-### 🚀 Quote that inspires me
-> “Freedom is the soul of software, and knowledge is the tool of freedom.” – [Inspired by Richard Stallman]
+- 📧 [My public email (powered by Apple)](mailto: wipes-incomes.9y@icloud.com)
