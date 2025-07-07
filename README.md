@@ -3,7 +3,6 @@
 ---
 
 - 🔭 Currently working at **Affirm** (via Bill Gosling Outsourcing) as a **Loan Dispute Adjudicator**
-- 🌱 Learning: Data Science and AI
 - 💡 Interests: Mathematics, AI, and Data Science
 - 📚 Studying **Software Engineering** at **UIA**
 
